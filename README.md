@@ -65,7 +65,7 @@ php artisan migrate
 # Run development server
 php artisan serve
 npm run dev
-
+```
 ---
 
 ## Author
